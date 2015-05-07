@@ -7,11 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "IXAppDelegate.h"
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface AppDelegate : IXAppDelegate
 
 @end
-

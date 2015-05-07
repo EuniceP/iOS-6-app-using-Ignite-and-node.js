@@ -1,0 +1,19 @@
+{
+    "$app": {
+        "actions": [],
+        "attributes": {
+            "view.index": "viewRestaurantList.json",
+            "debug.layout.enabled": false,
+            "logging.datasource.enabled": true,
+            "logging.level": "verbose",
+            "mode": "verbose",
+            "navigationBar.enabled": false,
+            "apigee.org": "viewRestaurantList",
+            "apigee.app": "RESTaurant"
+        },
+        "$session.defaults": {
+          "searchTerm": "beer"
+          },
+        "datasources": []
+    }
+}
